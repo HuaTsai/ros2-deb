@@ -1,5 +1,7 @@
 .cache
 .obj-x86_64-linux-gnu
+*.deb
+*.ddeb
 build
 debian
 install
