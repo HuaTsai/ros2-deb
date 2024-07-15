@@ -1,0 +1,6 @@
+.cache
+.obj-x86_64-linux-gnu
+build
+debian
+install
+log
